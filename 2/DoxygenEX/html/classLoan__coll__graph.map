@@ -1,0 +1,5 @@
+<map id="Loan" name="Loan">
+<area shape="rect" id="node2" href="$classBank.html" title="Bank" alt="" coords="13,109,65,136"/>
+<area shape="rect" id="node3" href="$classContact.html" title="Contact" alt="" coords="5,5,73,32"/>
+<area shape="rect" id="node4" href="$classID.html" title="ID" alt="" coords="89,109,128,136"/>
+</map>
