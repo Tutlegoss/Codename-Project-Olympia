@@ -1,0 +1,144 @@
+Class Specifications:
+
+Class Name
+	Registration
+Documentation:
+Definition:
+	Registration is the process of obtaining athletes who have successfully completed all qualification rounds prior to the Winter Olympics. 
+	Registration places athletes into their respective country (teams). 
+	Registration also places athletes to a specified event.
+Constraints:
+	provides a max amount of athletes per event per country
+	
+Class Name:
+	Team;
+Documentation:
+Definition:
+	A team represents each country in the Winter Olympics. 
+Constraints:
+	
+Class Name:
+	Athlete;
+Documentation:
+Definition:
+	An athlete is a solo human a part of a team in the Winter Olympics. 
+Constraints:
+	
+Class Name:
+	Schedule;
+Documentation:
+Definition:
+	Scheduling is the chronological listing of events over the course of two weeks. 
+	Scheduling also shows which event is at which area.
+Constraints:
+	Must not exceed limit of events per rink per time, 
+	as well as max number of athletes per event
+
+Class Name:
+	Scoring;
+Documentation:
+Definition:
+	Scoring is the act of taking the
+	judge's scores that are given to the participant at their respective event.
+Constraints:
+	Provides guidelines as well as a maximum score that 
+	athletes can receive for specific events
+	
+Class Name:
+	Judge;
+Documentation:
+Definition:
+	A judge is a qualified athlete to score and assess each event. 
+	A judge is independent of all teams.
+Constraints:
+	Must provide score that is from 0 to 100
+
+Class Name:	
+	Rink;
+Documentation:
+Definition:
+	Rink is the location of each event determined by the schedule.
+Constraints:
+
+Class Name:
+	Database;
+Definition:
+	Collection of information for all events in the winter Olympics.
+Constraints:
+
+Class Name:
+	Event;
+Documentation:
+Definition:
+	An event is the specific competition 
+	at a specified arena determined by the schedule.
+Constraints:
+
+Class Name:
+	Figure Skating;
+Documentation:
+Definition:
+	Figure Skating is one of the two main sporting categories that consist of three 
+	unique events which athletes participate separately as well as in pairs.
+Constraints:
+
+Class Name:
+	Single Skating;
+Documentation:
+Definition:
+	Single Skating is where athletes participate separately. Single Skating utilizes the long program
+	scenario where each athlete is free to do their own, unique, performance. 
+Constraints:
+	Each athlete performs solo on the rink (separate of other competitor pairs).
+
+Class Name:
+	Couple Skating;
+Documentation:
+Definition:
+	Couple Skating is where athletes participate in pairs. 
+	Couple Skating utilizes the long program scenario where each athlete is free to do their own, unique, performance. 
+Constraints:
+	The pairs are male/female only. Each pair performs
+	solo on the rink (separate of other competitor pairs).
+
+Class Name:
+	Ice Dance;
+Documentation:
+Definition:
+	Ice Dance is where athletes participate in pairs. Ice Dance utilizes the same technique as Couple Skating,
+	but the dancing is all done in tandem versus implementing technical tricks. 
+Constraints:
+	The pairs are male/female only. Each pair performs
+	solo on the rink (separate of other competitor pairs).
+
+Class Name:
+	Speed Skating;
+Documentation:
+Definition:
+	Speed Skating is one of the two main sporting categories that consist 
+	of three unique events which athletes participate separately.
+Constraints:
+	
+Class Name:
+	Speed Skating 500m
+Documentation:
+Definition:
+	Speed Skating 500m is where athletes utilize in-line skates and race around a 400m rink.
+	Whichever athlete crosses the finish line first has the lowest time.
+Constraints:
+
+Class Name:
+	Speed Skating 1000m
+Documentation:
+Definition:
+	Speed Skating 1000m is where athletes utilize inline skates and race around a 400m rink. 
+	Whichever athlete crosses the finish line first has the lowest time.
+Constraints:
+
+Class Name:
+	Speed Skating 1500m
+Documentation:
+Definition:
+	Speed Skating 1500m is where athletes utilize inline skates and race around a 400m rink. 
+	Whichever athlete crosses the finish line first has the lowest time.
+Constraints:
