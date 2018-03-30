@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="PCO.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IceDance.cs">
+    <Files>
+      <File FileName="Program.cs" Line="11" Column="1" />
+      <File FileName="Athlete.cs" Line="34" Column="16" />
+      <File FileName="Registration.cs" Line="37" Column="3" />
+      <File FileName="Team.cs" Line="42" Column="4" />
+      <File FileName="Database.cs" Line="5" Column="20" />
+      <File FileName="Event.cs" Line="52" Column="1" />
+      <File FileName="FigureSkating.cs" Line="21" Column="6" />
+      <File FileName="IceDance.cs" Line="29" Column="4" />
+      <File FileName="Judge.cs" Line="40" Column="3" />
+      <File FileName="PairSkating.cs" Line="49" Column="4" />
+      <File FileName="Rink.cs" Line="31" Column="12" />
+      <File FileName="Schedule.cs" Line="27" Column="56" />
+      <File FileName="Scoring.cs" Line="10" Column="26" />
+      <File FileName="Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="SpeedSkating.cs" Line="21" Column="6" />
+      <File FileName="SS1000m.cs" Line="47" Column="4" />
+      <File FileName="SS1500m.cs" Line="47" Column="4" />
+      <File FileName="SS500m.cs" Line="21" Column="18" />
+      <File FileName="SingleSkating.cs" Line="49" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

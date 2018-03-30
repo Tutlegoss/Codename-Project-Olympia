@@ -1,0 +1,10 @@
+<map id="PCO.Event" name="PCO.Event">
+<area shape="rect" id="node2" href="$classPCO_1_1FigureSkating.html" title="FigureSkating class is the superclass of the 3 FigureSkating events. " alt="" coords="217,80,376,107"/>
+<area shape="rect" id="node6" href="$classPCO_1_1SpeedSkating.html" title="SpeedSkating class is the superclass of the 3 SpeedSkating events. " alt="" coords="544,80,695,107"/>
+<area shape="rect" id="node3" href="$classPCO_1_1IceDance.html" title="IceDance class is one of the 3 FigureSkating events. " alt="" coords="5,155,124,181"/>
+<area shape="rect" id="node4" href="$classPCO_1_1PairSkating.html" title="PairSkating class is one of the 3 FigureSkating events. " alt="" coords="148,155,291,181"/>
+<area shape="rect" id="node5" href="$classPCO_1_1SingleSkating.html" title="SingleSkating class is one of the 3 FigureSkating events. " alt="" coords="315,155,473,181"/>
+<area shape="rect" id="node7" href="$classPCO_1_1SS1000m.html" title="SS1000m is one of the 3 SpeedSkating events. " alt="" coords="497,155,608,181"/>
+<area shape="rect" id="node8" href="$classPCO_1_1SS1500m.html" title="SS1500m is one of the 3 SpeedSkating events. " alt="" coords="632,155,743,181"/>
+<area shape="rect" id="node9" href="$classPCO_1_1SS500m.html" title="SS500m is one of the 3 SpeedSkating events. " alt="" coords="767,155,869,181"/>
+</map>

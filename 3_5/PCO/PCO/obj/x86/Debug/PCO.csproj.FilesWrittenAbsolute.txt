@@ -1,0 +1,5 @@
+/home/tutlegoss/Downloads/PCO/PCO/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/tutlegoss/Downloads/PCO/PCO/bin/Debug/PCO.exe.mdb
+/home/tutlegoss/Downloads/PCO/PCO/bin/Debug/PCO.exe
+/home/tutlegoss/Downloads/PCO/PCO/obj/x86/Debug/PCO.exe
+/home/tutlegoss/Downloads/PCO/PCO/obj/x86/Debug/PCO.exe.mdb
