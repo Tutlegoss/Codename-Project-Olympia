@@ -7850,12 +7850,12 @@
 									"containerChangeable": false,
 									"containerExtending": false,
 									"left": 1391,
-									"top": 216,
+									"top": 192,
 									"width": 78,
 									"height": 13,
 									"autoResize": false,
-									"alpha": 3.4257265402091797,
-									"distance": 235.44001359157284,
+									"alpha": 3.5205722991222284,
+									"distance": 243.26117651610582,
 									"hostEdge": {
 										"$ref": "AAAAAAFiGtvaaqJim7Y="
 									},
@@ -8151,8 +8151,8 @@
 									"enabled": true,
 									"lineColor": "#000000",
 									"fillColor": "#ffffff",
-									"fontColor": "#000000",
-									"font": "Arial;13;0",
+									"fontColor": "#005884",
+									"font": "Roboto;13;0",
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
@@ -8175,8 +8175,8 @@
 									"enabled": true,
 									"lineColor": "#000000",
 									"fillColor": "#ffffff",
-									"fontColor": "#000000",
-									"font": "Arial;13;0",
+									"fontColor": "#005884",
+									"font": "Roboto;13;0",
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
@@ -8191,8 +8191,8 @@
 							"enabled": true,
 							"lineColor": "#000000",
 							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
+							"fontColor": "#005884",
+							"font": "Roboto;13;0",
 							"showShadow": true,
 							"containerChangeable": false,
 							"containerExtending": false,
@@ -8272,12 +8272,12 @@
 									"containerChangeable": false,
 									"containerExtending": false,
 									"left": 1287,
-									"top": 1232,
+									"top": 1208,
 									"width": 74.07080078125,
 									"height": 13,
 									"autoResize": false,
-									"alpha": 1.9359976313726261,
-									"distance": 72.80109889280519,
+									"alpha": 2.2048188801191904,
+									"distance": 84.40379138403677,
 									"hostEdge": {
 										"$ref": "AAAAAAFiJbKSCSTR0nE="
 									},
@@ -8668,241 +8668,6 @@
 							}
 						},
 						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFiJbm+ZD6Ni60=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 56,
-							"top": 1952,
-							"width": 100.95166015625,
-							"height": 51,
-							"autoResize": false,
-							"text": "SS500m is a  type of SpeedSkating",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFiJbm+dD6QKkI=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFiJbm+ZD6Ni60="
-							},
-							"tail": {
-								"$ref": "AAAAAAFiJbm+dD6QKkI="
-							},
-							"lineStyle": 1,
-							"points": "146:1923;168:1896;125:1951"
-						},
-						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFiJbv7x0S4G9Q=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 448,
-							"top": 1952,
-							"width": 100.95166015625,
-							"height": 51,
-							"autoResize": false,
-							"text": "SS1000m is a type of SpeedSkating",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFiJbv7x0S73wI=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFiJbv7x0S4G9Q="
-							},
-							"tail": {
-								"$ref": "AAAAAAFiGs9iKKB1NcQ="
-							},
-							"lineStyle": 1,
-							"points": "576:2119;511:2003"
-						},
-						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFiJb2lAk/UtKk=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 1968,
-							"top": 1976,
-							"width": 100.208984375,
-							"height": 51,
-							"autoResize": false,
-							"text": "PairSkating is a type of FigureSkating",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFiJb2lAk/XpN8=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFiJb2lAk/UtKk="
-							},
-							"tail": {
-								"$ref": "AAAAAAFiGtTE7qEOu5c="
-							},
-							"lineStyle": 1,
-							"points": "1960:2123;2005:2027"
-						},
-						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFiJpTKgsbO/5U=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 1392,
-							"top": 232,
-							"width": 100,
-							"height": 64,
-							"autoResize": false,
-							"text": "Team is a part of the registration process",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFiJpTKksbRiKA=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFiJpTKgsbO/5U="
-							},
-							"tail": {
-								"$ref": "AAAAAAFiGtvaaqJim7Y="
-							},
-							"lineStyle": 1,
-							"points": "1204:288;1391:268"
-						},
-						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFiJqWxBgihTDY=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 2240,
-							"top": 1976,
-							"width": 100.208984375,
-							"height": 51,
-							"autoResize": false,
-							"text": "IceDance is a type of FigureSkating",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFiJqWxOAikb2k=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFiJqWxBgihTDY="
-							},
-							"tail": {
-								"$ref": "AAAAAAFiJqWxOAikb2k="
-							},
-							"lineStyle": 1,
-							"points": "2354:1980;2368:1976;2340:1985"
-						},
-						{
 							"_type": "UMLGeneralizationView",
 							"_id": "AAAAAAFiJqhjURd3RyA=",
 							"_parent": {
@@ -9045,53 +8810,6 @@
 							"propertyLabel": {
 								"$ref": "AAAAAAFiJqhjUxd6PMw="
 							}
-						},
-						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFiJqnxIh5w4aU=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 1576,
-							"top": 1976,
-							"width": 100.208984375,
-							"height": 51,
-							"autoResize": false,
-							"text": "SingleSkating is a type of FigureSkating",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFiJqnxOR5zh1M=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFiJqnxIh5w4aU="
-							},
-							"tail": {
-								"$ref": "AAAAAAFiJqnxOR5zh1M="
-							},
-							"lineStyle": 1,
-							"points": "1555:2000;1536:2000;1575:2000"
 						},
 						{
 							"_type": "UMLGeneralizationView",
@@ -9238,53 +8956,6 @@
 							}
 						},
 						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFiJsK69lxNOhw=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 1800,
-							"top": 1600,
-							"width": 100.208984375,
-							"height": 59,
-							"autoResize": false,
-							"text": "FigureSkating is of type event",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFiJsK7IFxQK6I=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFiJsK69lxNOhw="
-							},
-							"tail": {
-								"$ref": "AAAAAAFiJsHu8lkfx50="
-							},
-							"lineStyle": 1,
-							"points": "1711:1576;1799:1610"
-						},
-						{
 							"_type": "UMLDependencyView",
 							"_id": "AAAAAAFiJtIb4nyrXY0=",
 							"_parent": {
@@ -9312,13 +8983,13 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 1199,
-									"top": 703,
+									"left": 1319,
+									"top": 664,
 									"width": 80.58984375,
 									"height": 13,
 									"autoResize": false,
-									"alpha": -4.703617363252796,
-									"distance": 114.00438588054409,
+									"alpha": 0.9129076809547688,
+									"distance": 194.62014284240982,
 									"hostEdge": {
 										"$ref": "AAAAAAFiJtIb4nyrXY0="
 									},
@@ -9402,7 +9073,7 @@
 							"enabled": true,
 							"lineColor": "#000000",
 							"fillColor": "#ffffff",
-							"fontColor": "#000000",
+							"fontColor": "#005884",
 							"font": "Arial;13;0",
 							"showShadow": true,
 							"containerChangeable": false,
@@ -9427,53 +9098,6 @@
 							"propertyLabel": {
 								"$ref": "AAAAAAFiJtIb53yuoHk="
 							}
-						},
-						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFiJtT7nn77obo=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 1200,
-							"top": 720,
-							"width": 100,
-							"height": 64,
-							"autoResize": false,
-							"text": "Schedule depends on data from the Database",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFiJtT7qH7+API=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFiJtT7nn77obo="
-							},
-							"tail": {
-								"$ref": "AAAAAAFiJtIb4nyrXY0="
-							},
-							"lineStyle": 1,
-							"points": "1240:824;1245:784"
 						},
 						{
 							"_type": "UMLAssociationView",
@@ -9900,53 +9524,6 @@
 							}
 						},
 						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFiJu5WWd6RyyU=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 336,
-							"top": 1144,
-							"width": 100,
-							"height": 64,
-							"autoResize": false,
-							"text": "Schedule will have organized the many events",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFiJu5WhN6U72U=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFiJu5WWd6RyyU="
-							},
-							"tail": {
-								"$ref": "AAAAAAFiJu1/jttecv8="
-							},
-							"lineStyle": 1,
-							"points": "504:1257;433:1208"
-						},
-						{
 							"_type": "UMLAssociationView",
 							"_id": "AAAAAAFiJu/JY+PNjuU=",
 							"_parent": {
@@ -9974,13 +9551,13 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 1799,
+									"left": 1727,
 									"top": 480,
 									"width": 74.07080078125,
 									"height": 13,
 									"autoResize": false,
-									"alpha": -0.3782206544435658,
-									"distance": 324.96769070170654,
+									"alpha": -0.5663005775404908,
+									"distance": 357.865896670806,
 									"hostEdge": {
 										"$ref": "AAAAAAFiJu/JY+PNjuU="
 									},
@@ -10369,53 +9946,6 @@
 							"headQualifiersCompartment": {
 								"$ref": "AAAAAAFiJu/JaePYGxk="
 							}
-						},
-						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFiJu/49OTWfT8=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 1800,
-							"top": 496,
-							"width": 100,
-							"height": 64,
-							"autoResize": false,
-							"text": "Many registrants are put into the Database",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFiJu/5CeTZIaU=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFiJu/49OTWfT8="
-							},
-							"tail": {
-								"$ref": "AAAAAAFiJu/JY+PNjuU="
-							},
-							"lineStyle": 1,
-							"points": "1956:492;1900:510"
 						},
 						{
 							"_type": "UMLAssociationView",
@@ -10840,53 +10370,6 @@
 							"headQualifiersCompartment": {
 								"$ref": "AAAAAAFiJwNlohQJdgk="
 							}
-						},
-						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFiJwXO/yHXIZQ=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 1128,
-							"top": 1736,
-							"width": 100,
-							"height": 51,
-							"autoResize": false,
-							"text": "Rink is a part of many events",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFiJwXPAiHaOqc=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFiJwXO/yHXIZQ="
-							},
-							"tail": {
-								"$ref": "AAAAAAFiJwNlnhP+7F8="
-							},
-							"lineStyle": 1,
-							"points": "1256:1728;1228:1740"
 						},
 						{
 							"_type": "UMLAssociationView",
@@ -11314,53 +10797,6 @@
 							}
 						},
 						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFiZJa105yIBXA=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 1688,
-							"top": 1160,
-							"width": 100,
-							"height": 77,
-							"autoResize": false,
-							"text": "Many events are formally stored into the Database (information)",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFiZJa14pyLAjk=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFiZJa105yIBXA="
-							},
-							"tail": {
-								"$ref": "AAAAAAFiZJYf8Zf7UhE="
-							},
-							"lineStyle": 1,
-							"points": "1816:1180;1788:1186"
-						},
-						{
 							"_type": "UMLAssociationView",
 							"_id": "AAAAAAFidOAKq6utFkI=",
 							"_parent": {
@@ -11388,13 +10824,13 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 478,
-									"top": 656,
+									"left": 662,
+									"top": 639,
 									"width": 74.07080078125,
 									"height": 13,
 									"autoResize": false,
-									"alpha": -5.0490637338644415,
-									"distance": 105.94810050208545,
+									"alpha": -1.0251412279919538,
+									"distance": 98.2700361249552,
 									"hostEdge": {
 										"$ref": "AAAAAAFidOAKq6utFkI="
 									},
@@ -11783,53 +11219,6 @@
 							"headQualifiersCompartment": {
 								"$ref": "AAAAAAFidOAKsKu4CFU="
 							}
-						},
-						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFidOCsCLFRED8=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 480,
-							"top": 672,
-							"width": 100,
-							"height": 64,
-							"autoResize": false,
-							"text": "Each athlete will partake in one/multiple events",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFidOCsD7FU7gg=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFidOCsCLFRED8="
-							},
-							"tail": {
-								"$ref": "AAAAAAFidOAKq6utFkI="
-							},
-							"lineStyle": 1,
-							"points": "616:697;580:699"
 						},
 						{
 							"_type": "UMLAssociationView",
@@ -12256,53 +11645,6 @@
 							}
 						},
 						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFidOeq1PHXeuo=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 848,
-							"top": 880,
-							"width": 100,
-							"height": 77,
-							"autoResize": false,
-							"text": "Each judge is assigned their own, unique schedule",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFidOeq3vHaaPw=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFidOeq1PHXeuo="
-							},
-							"tail": {
-								"$ref": "AAAAAAFidOPKzsebCgA="
-							},
-							"lineStyle": 1,
-							"points": "880:992;888:957"
-						},
-						{
 							"_type": "UMLAssociationView",
 							"_id": "AAAAAAFidVt5d6Rcodw=",
 							"_parent": {
@@ -12331,12 +11673,12 @@
 									"containerChangeable": false,
 									"containerExtending": false,
 									"left": 199,
-									"top": 648,
+									"top": 520,
 									"width": 74.07080078125,
 									"height": 13,
 									"autoResize": false,
-									"alpha": 2.823142352533252,
-									"distance": 191.63506985935533,
+									"alpha": 2.950408147747984,
+									"distance": 315.75306807693886,
 									"hostEdge": {
 										"$ref": "AAAAAAFidVt5d6Rcodw="
 									},
@@ -12725,53 +12067,6 @@
 							"headQualifiersCompartment": {
 								"$ref": "AAAAAAFidVt5eqRnw9k="
 							}
-						},
-						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFidVz+fLLtTuc=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 200,
-							"top": 664,
-							"width": 100,
-							"height": 51,
-							"autoResize": false,
-							"text": "Many teams participate in many events",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFidVz+i7Lw8ZI=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFidVz+fLLtTuc="
-							},
-							"tail": {
-								"$ref": "AAAAAAFidVt5d6Rcodw="
-							},
-							"lineStyle": 1,
-							"points": "176:836;236:715"
 						},
 						{
 							"_type": "UMLAssociationView",
@@ -13198,53 +12493,6 @@
 							}
 						},
 						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFieUFdqE+wmE0=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 952,
-							"top": 336,
-							"width": 129,
-							"height": 77,
-							"autoResize": false,
-							"text": "Athletes are a part of a team. No team implies no athletes to compete",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFieUFdv0+z/kw=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFieUFdqE+wmE0="
-							},
-							"tail": {
-								"$ref": "AAAAAAFieUEMCE0bDsI="
-							},
-							"lineStyle": 1,
-							"points": "1022:448;1019:413"
-						},
-						{
 							"_type": "UMLGeneralizationView",
 							"_id": "AAAAAAFiebm6QmSts/0=",
 							"_parent": {
@@ -13389,53 +12637,6 @@
 							}
 						},
 						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFiebnrB2YH+sc=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 672,
-							"top": 1952,
-							"width": 100.95166015625,
-							"height": 51,
-							"autoResize": false,
-							"text": "SS1500m is a type of SpeedSkating",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFiebnrEGYKZs8=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFiebnrEGYKZs8="
-							},
-							"tail": {
-								"$ref": "AAAAAAFiebnrB2YH+sc="
-							},
-							"lineStyle": 0,
-							"points": "773:1977;800:1977;800:1978"
-						},
-						{
 							"_type": "UMLGeneralizationView",
 							"_id": "AAAAAAFiecTJF7IZUbc=",
 							"_parent": {
@@ -13578,100 +12779,6 @@
 							"propertyLabel": {
 								"$ref": "AAAAAAFiecTJGbIcbTg="
 							}
-						},
-						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFiecX5nLiEj30=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 768,
-							"top": 1616,
-							"width": 100.95166015625,
-							"height": 51,
-							"autoResize": false,
-							"text": "SpeedSkating is of type event",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFiecX5p7iHANM=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFiecX5nLiEj30="
-							},
-							"tail": {
-								"$ref": "AAAAAAFiecTJF7IZUbc="
-							},
-							"lineStyle": 1,
-							"points": "896:1576;849:1615"
-						},
-						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFiecvVBuPkBQg=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 1288,
-							"top": 1248,
-							"width": 100,
-							"height": 64,
-							"autoResize": false,
-							"text": "One to many judges are assigned to many events",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFiecvVD+Pngf8=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFiecvVBuPkBQg="
-							},
-							"tail": {
-								"$ref": "AAAAAAFiJbKSCSTR0nE="
-							},
-							"lineStyle": 1,
-							"points": "1256:1264;1287:1270"
 						},
 						{
 							"_type": "UMLAssociationView",
@@ -14098,53 +13205,6 @@
 							}
 						},
 						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFiesjELuswapg=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 768,
-							"top": 1120,
-							"width": 100,
-							"height": 77,
-							"autoResize": false,
-							"text": "Scoring is a part of the judge as they determine the score",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFiesjEPuszKs8=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFiesjELuswapg="
-							},
-							"tail": {
-								"$ref": "AAAAAAFiesgf/+d3asQ="
-							},
-							"lineStyle": 1,
-							"points": "984:1044;868:1123"
-						},
-						{
 							"_type": "UMLDependencyView",
 							"_id": "AAAAAAFies+xMxTDLbM=",
 							"_parent": {
@@ -14172,13 +13232,13 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 1494,
-									"top": 912,
+									"left": 1502,
+									"top": 848,
 									"width": 80.58984375,
 									"height": 13,
 									"autoResize": false,
-									"alpha": -5.161331483048187,
-									"distance": 152.0690632574555,
+									"alpha": -5.50164785471607,
+									"distance": 183.14202139323461,
 									"hostEdge": {
 										"$ref": "AAAAAAFies+xMxTDLbM="
 									},
@@ -14287,53 +13347,6 @@
 							"propertyLabel": {
 								"$ref": "AAAAAAFies+xNBTGllE="
 							}
-						},
-						{
-							"_type": "UMLNoteView",
-							"_id": "AAAAAAFietB0ShoCMTE=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"left": 1496,
-							"top": 928,
-							"width": 135.41015625,
-							"height": 70,
-							"autoResize": false,
-							"text": "Judge depends on the Database to retrieve stored judge information",
-							"wordWrap": true
-						},
-						{
-							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFietB0WxoFOmM=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"visible": true,
-							"enabled": true,
-							"lineColor": "#000000",
-							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
-							"showShadow": true,
-							"containerChangeable": false,
-							"containerExtending": false,
-							"head": {
-								"$ref": "AAAAAAFietB0ShoCMTE="
-							},
-							"tail": {
-								"$ref": "AAAAAAFies+xMxTDLbM="
-							},
-							"lineStyle": 1,
-							"points": "1672:984;1631:976"
 						},
 						{
 							"_type": "UMLDependencyView",
@@ -14481,7 +13494,7 @@
 						},
 						{
 							"_type": "UMLNoteView",
-							"_id": "AAAAAAFieuNs52g+sn0=",
+							"_id": "AAAAAAFihp/utggBJbc=",
 							"_parent": {
 								"$ref": "AAAAAAFF+qBtyKM79qY="
 							},
@@ -14489,22 +13502,22 @@
 							"enabled": true,
 							"lineColor": "#000000",
 							"fillColor": "#ffffff",
-							"fontColor": "#000000",
-							"font": "Arial;13;0",
+							"fontColor": "#005884",
+							"font": "Roboto;13;0",
 							"showShadow": true,
 							"containerChangeable": false,
 							"containerExtending": false,
-							"left": 2032,
-							"top": 1120,
-							"width": 100,
-							"height": 77,
+							"left": 952,
+							"top": 336,
+							"width": 177,
+							"height": 81,
 							"autoResize": false,
-							"text": "Event depends on successful registration of Teams",
+							"text": "<<uses>>\nTeam has options to add and delete athletes since each Team consists of several athletes",
 							"wordWrap": true
 						},
 						{
 							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAFieuNs9GhBC7o=",
+							"_id": "AAAAAAFihp/u6QgE0wM=",
 							"_parent": {
 								"$ref": "AAAAAAFF+qBtyKM79qY="
 							},
@@ -14518,13 +13531,436 @@
 							"containerChangeable": false,
 							"containerExtending": false,
 							"head": {
-								"$ref": "AAAAAAFieuNs52g+sn0="
+								"$ref": "AAAAAAFihp/utggBJbc="
 							},
 							"tail": {
-								"$ref": "AAAAAAFiet9wtE6+rzk="
+								"$ref": "AAAAAAFieUEMCE0bDsI="
 							},
 							"lineStyle": 1,
-							"points": "2152:776;2152:1216;2129:1197"
+							"points": "1022:448;1030:417"
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAFihqPlbBMK18Y=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#005884",
+							"font": "Roboto;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 1392,
+							"top": 208,
+							"width": 223,
+							"height": 105,
+							"autoResize": false,
+							"text": "<<uses>>\nRegistration will house the overall Teams and their athletes to be sent to the database. Restrictions will be enforced to ensure appropriate allocation of teams/athletes",
+							"wordWrap": true
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFihqPldRMNn4s=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"head": {
+								"$ref": "AAAAAAFihqPlbBMK18Y="
+							},
+							"tail": {
+								"$ref": "AAAAAAFiGtvaaqJim7Y="
+							},
+							"lineStyle": 1,
+							"points": "1204:288;1391:270"
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAFihq4vEx+fI34=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#005884",
+							"font": "Roboto;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 1728,
+							"top": 496,
+							"width": 177,
+							"height": 89,
+							"autoResize": false,
+							"text": "<<uses>>\nDatabase Subsystem uses the Registration class to store all of the teams and their information",
+							"wordWrap": true
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFihq4vKh+idfw=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"head": {
+								"$ref": "AAAAAAFihq4vEx+fI34="
+							},
+							"tail": {
+								"$ref": "AAAAAAFiJu/JY+PNjuU="
+							},
+							"lineStyle": 1,
+							"points": "1956:492;1905:509"
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAFihrCYgyXf4KI=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#005884",
+							"font": "Roboto;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 664,
+							"top": 656,
+							"width": 153,
+							"height": 89,
+							"autoResize": false,
+							"text": "<<uses>>\nAthlete uses Schedule to store each athlete's events they are particicpating in",
+							"wordWrap": true
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFihrCYliXiZXg=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"head": {
+								"$ref": "AAAAAAFihrCYgyXf4KI="
+							},
+							"tail": {
+								"$ref": "AAAAAAFidOAKq6utFkI="
+							},
+							"lineStyle": 1,
+							"points": "616:697;663:698"
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAFihrKIyipwLNo=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#005884",
+							"font": "Roboto;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 1320,
+							"top": 680,
+							"width": 164.41015625,
+							"height": 105,
+							"autoResize": false,
+							"text": "<<uses>>\nSchedule uses the Database Subsystem to pull the necessary information to compose a proper schedule of events",
+							"wordWrap": true
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFihrKI2ipzIWU=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"head": {
+								"$ref": "AAAAAAFihrKIyipwLNo="
+							},
+							"tail": {
+								"$ref": "AAAAAAFiJtIb4nyrXY0="
+							},
+							"lineStyle": 1,
+							"points": "1240:824;1319:779"
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAFihrd5Pi/qkdo=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#005884",
+							"font": "Roboto;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 328,
+							"top": 1144,
+							"width": 130.92919921875,
+							"height": 105,
+							"autoResize": false,
+							"text": "<<uses>>\nEvent uses schedules to properly set up each specific event",
+							"wordWrap": true
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFihrd5VC/to/k=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"head": {
+								"$ref": "AAAAAAFihrd5Pi/qkdo="
+							},
+							"tail": {
+								"$ref": "AAAAAAFiJu1/jttecv8="
+							},
+							"lineStyle": 1,
+							"points": "504:1257;459:1232"
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAFihrh0VTNQ0nA=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#005884",
+							"font": "Roboto;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 848,
+							"top": 880,
+							"width": 130.92919921875,
+							"height": 92,
+							"autoResize": false,
+							"text": "<<uses>>\nJudge uses Schedule to allocate each judge to (a) specific event(s)",
+							"wordWrap": true
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFihrh0ZDNTRCU=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"head": {
+								"$ref": "AAAAAAFihrh0VTNQ0nA="
+							},
+							"tail": {
+								"$ref": "AAAAAAFidOPKzsebCgA="
+							},
+							"lineStyle": 1,
+							"points": "880:992;890:972"
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAFihrmj5za2hG4=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#005884",
+							"font": "Roboto;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 768,
+							"top": 1120,
+							"width": 113,
+							"height": 92,
+							"autoResize": false,
+							"text": "<<uses>>\nJudge uses Scoring to create their unique score per event",
+							"wordWrap": true
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFihrmj9Da5KHE=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"head": {
+								"$ref": "AAAAAAFihrmj5za2hG4="
+							},
+							"tail": {
+								"$ref": "AAAAAAFiesgf/+d3asQ="
+							},
+							"lineStyle": 1,
+							"points": "984:1044;881:1122"
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAFihrxeqz5dH/E=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#005884",
+							"font": "Roboto;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 1504,
+							"top": 864,
+							"width": 141.41015625,
+							"height": 92,
+							"autoResize": false,
+							"text": "<<uses>>\nJudge uses the Database Subsystem to extract each judge's information (ID)",
+							"wordWrap": true
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFihrxeuD5gm1A=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"head": {
+								"$ref": "AAAAAAFihrxeqz5dH/E="
+							},
+							"tail": {
+								"$ref": "AAAAAAFies+xMxTDLbM="
+							},
+							"lineStyle": 1,
+							"points": "1672:984;1635:956"
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAFihr3+T0atqHc=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#005884",
+							"font": "Roboto;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"left": 1288,
+							"top": 1224,
+							"width": 130.92919921875,
+							"height": 105,
+							"autoResize": false,
+							"text": "<<uses>>\nEvent uses Judge to correspond appropriate number of judges to each unique event",
+							"wordWrap": true
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAFihr3+aEawPHo=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"visible": true,
+							"enabled": true,
+							"lineColor": "#000000",
+							"fillColor": "#ffffff",
+							"fontColor": "#000000",
+							"font": "Arial;13;0",
+							"showShadow": true,
+							"containerChangeable": false,
+							"containerExtending": false,
+							"head": {
+								"$ref": "AAAAAAFihr3+T0atqHc="
+							},
+							"tail": {
+								"$ref": "AAAAAAFiJbKSCSTR0nE="
+							},
+							"lineStyle": 1,
+							"points": "1256:1264;1287:1268"
 						}
 					]
 				},
@@ -16369,6 +15805,7 @@
 									"visibility": "public",
 									"isStatic": false,
 									"isLeaf": false,
+									"type": "",
 									"isReadOnly": false,
 									"isOrdered": false,
 									"isUnique": false,
@@ -16384,6 +15821,7 @@
 									"visibility": "public",
 									"isStatic": false,
 									"isLeaf": false,
+									"type": "",
 									"isReadOnly": false,
 									"isOrdered": false,
 									"isUnique": false,
