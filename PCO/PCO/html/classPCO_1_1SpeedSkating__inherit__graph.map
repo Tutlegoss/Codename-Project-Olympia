@@ -1,0 +1,6 @@
+<map id="PCO.SpeedSkating" name="PCO.SpeedSkating">
+<area shape="rect" id="node3" href="$classPCO_1_1SS1000m.html" title="SS1000m is one of the 3 SpeedSkating events. " alt="" coords="5,155,116,181"/>
+<area shape="rect" id="node4" href="$classPCO_1_1SS1500m.html" title="SS1500m is one of the 3 SpeedSkating events. " alt="" coords="140,155,251,181"/>
+<area shape="rect" id="node5" href="$classPCO_1_1SS500m.html" title="SS500m is one of the 3 SpeedSkating events. " alt="" coords="275,155,377,181"/>
+<area shape="rect" id="node2" href="$classPCO_1_1Event.html" title="Event class is the superclass of all the 2 event types and 6 specific events. " alt="" coords="164,5,227,32"/>
+</map>
