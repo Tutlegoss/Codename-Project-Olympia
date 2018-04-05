@@ -1,6 +1,0 @@
-<map id="PCO.FigureSkating" name="PCO.FigureSkating">
-<area shape="rect" id="node3" href="$classPCO_1_1IceDance.html" title="IceDance class is one of the 3 FigureSkating events. " alt="" coords="5,155,124,181"/>
-<area shape="rect" id="node4" href="$classPCO_1_1PairSkating.html" title="PairSkating class is one of the 3 FigureSkating events. " alt="" coords="148,155,291,181"/>
-<area shape="rect" id="node5" href="$classPCO_1_1SingleSkating.html" title="SingleSkating class is one of the 3 FigureSkating events. " alt="" coords="315,155,473,181"/>
-<area shape="rect" id="node2" href="$classPCO_1_1Event.html" title="Event class is the superclass of all the 2 event types and 6 specific events. " alt="" coords="188,5,251,32"/>
-</map>
