@@ -1,0 +1,6 @@
+<map id="Project_Codename_Olympia_v1._0.SpeedSkating" name="Project_Codename_Olympia_v1._0.SpeedSkating">
+<area shape="rect" id="node3" href="$classProject__Codename__Olympia__v1_1_1__0_1_1SS1000m.html" title="SS1000m is one of the 3 SpeedSkating events. " alt="" coords="345,5,533,47"/>
+<area shape="rect" id="node4" href="$classProject__Codename__Olympia__v1_1_1__0_1_1SS1500m.html" title="SS1500m is one of the 3 SpeedSkating events. " alt="" coords="345,71,533,112"/>
+<area shape="rect" id="node5" href="$classProject__Codename__Olympia__v1_1_1__0_1_1SS500m.html" title="SS500m is one of the 3 SpeedSkating events. " alt="" coords="345,136,533,177"/>
+<area shape="rect" id="node2" href="$classProject__Codename__Olympia__v1_1_1__0_1_1Event.html" title="Event class is the superclass of all the 2 event types and 6 specific events. " alt="" coords="5,78,61,105"/>
+</map>

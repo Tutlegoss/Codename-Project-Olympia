@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['deleteathlete',['deleteAthlete',['../classProject__Codename__Olympia__v1_1_1__0_1_1Team.html#ad172848f51c93bc1dcd0edc4e478ab23',1,'Project_Codename_Olympia_v1::_0::Team']]],
+  ['dispose',['Dispose',['../classProject__Codename__Olympia__v1_1_1__0_1_1Form1.html#aaa9416dc0391b442a1b3d54968a89123',1,'Project_Codename_Olympia_v1._0.Form1.Dispose()'],['../classProject__Codename__Olympia__v1_1_1__0_1_1TeamForm.html#a7896ce3551a76d8161138e412e507a17',1,'Project_Codename_Olympia_v1._0.TeamForm.Dispose()'],['../classProject__Codename__Olympia__v1_1_1__0_1_1AthleteForm.html#a96cf7be874bb0c7f6e0a0a4039cc19eb',1,'Project_Codename_Olympia_v1._0.AthleteForm.Dispose()'],['../classProject__Codename__Olympia__v1_1_1__0_1_1RegisterEventForm.html#a36314720f560074be6a7a2fa7bde5cbe',1,'Project_Codename_Olympia_v1._0.RegisterEventForm.Dispose()'],['../classProject__Codename__Olympia__v1_1_1__0_1_1ScoringForm.html#a6617b54014c935162ab2dd0746a3888e',1,'Project_Codename_Olympia_v1._0.ScoringForm.Dispose()'],['../classProject__Codename__Olympia__v1_1_1__0_1_1Form6.html#a9136ee056a97f41d8bf4dcd25e203328',1,'Project_Codename_Olympia_v1._0.Form6.Dispose()']]]
+];
