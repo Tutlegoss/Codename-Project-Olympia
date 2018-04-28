@@ -219,12 +219,13 @@ using System.Windows.Forms;
         {
 
         }
-    /** Void function adds male to database for the event
-        @param string for athlete's team name
+    /** Void function registeres Athlete to Database/Registration
         @param string for first name of athlete
         @param string for last name of athlete
+        @param string for athlete's team name
+        @param string for athlete's team name
     */
-        public void registerAthlete(string Fname, string Lname , string Gender, string team)
+    public void registerAthlete(string Fname, string Lname , string Gender, string team)
         {
             //!< Creates variable for connection string
             using (System.Data.SQLite.SQLiteConnection con = new System.Data.SQLite.SQLiteConnection("data source=OlympiaDB.sqlite"))
@@ -252,7 +253,11 @@ using System.Windows.Forms;
                 con.Close();
             }
         }
-        public void deleteAthlete(string Fname, string Lname)
+    /** Void function removes Athlete from Database/Registration
+        @param string for first name of athlete
+        @param string for last name of athlete
+    */
+    public void deleteAthlete(string Fname, string Lname)
         {
             //!< Creates variable for connection string
             using (System.Data.SQLite.SQLiteConnection con = new System.Data.SQLite.SQLiteConnection("data source=OlympiaDB.sqlite"))
@@ -1024,7 +1029,10 @@ public class PairSkating
                 MessageBox.Show(TeamName + " has been added to database!");
             }
         }
-        public void DeleteTeam(string TeamName)
+    /** Function to delete a team to be officially deregistered
+        @param string for the Team's name (which is country name)
+    */
+    public void DeleteTeam(string TeamName)
         {
             //!< Impeded sql statement to delete value from database
             string DeleteDB = "DELETE FROM 'team information' WHERE TeamName = '" + TeamName + "';";

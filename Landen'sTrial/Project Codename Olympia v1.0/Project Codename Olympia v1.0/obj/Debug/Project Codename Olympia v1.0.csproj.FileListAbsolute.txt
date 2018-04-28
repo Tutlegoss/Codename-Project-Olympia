@@ -39,3 +39,24 @@ E:/final Version of Olympia/Project Codename Olympia v1.0/Project Codename Olymp
 /home/tutlegoss/final Version of Olympia/Project Codename Olympia v1.0/Project Codename Olympia v1.0/obj/Debug/PCO.ScoringForm.resources
 /home/tutlegoss/final Version of Olympia/Project Codename Olympia v1.0/Project Codename Olympia v1.0/obj/Debug/PCO.Display.resources
 /home/tutlegoss/final Version of Olympia/Project Codename Olympia v1.0/Project Codename Olympia v1.0/obj/Debug/PCO.Form1.resources
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\bin\Debug\Project Codename Olympia v1.0.exe.config
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\bin\Debug\Project Codename Olympia v1.0.exe.manifest
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\bin\Debug\Project Codename Olympia v1.0.application
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\bin\Debug\Project Codename Olympia v1.0.exe
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\bin\Debug\Project Codename Olympia v1.0.pdb
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\bin\Debug\System.Data.SQLite.xml
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\obj\Debug\Project Codename Olympia v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\obj\Debug\PCO.Form1.resources
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\obj\Debug\PCO.TeamForm.resources
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\obj\Debug\PCO.AthleteForm.resources
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\obj\Debug\PCO.RegisterEventForm.resources
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\obj\Debug\PCO.ScoringForm.resources
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\obj\Debug\PCO.Display.resources
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\obj\Debug\Project_Codename_Olympia_v1._0.Properties.Resources.resources
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\obj\Debug\Project Codename Olympia v1.0.csproj.GenerateResource.cache
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\obj\Debug\Project Codename Olympia v1.0.csproj.CoreCompileInputs.cache
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\obj\Debug\Project Codename Olympia v1.0.exe.manifest
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\obj\Debug\Project Codename Olympia v1.0.application
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\obj\Debug\Project Codename Olympia v1.0.csproj.CopyComplete
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\obj\Debug\Project Codename Olympia v1.0.exe
+C:\Users\Tutlegoss\Documents\GitHub\Codename-Project-Olympia\Landen'sTrial\Project Codename Olympia v1.0\Project Codename Olympia v1.0\obj\Debug\Project Codename Olympia v1.0.pdb

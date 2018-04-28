@@ -66,7 +66,7 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(265, 46);
             this.button3.TabIndex = 2;
-            this.button3.Text = "Enter Judges Scores";
+            this.button3.Text = "Enter Judge's Scores/Times";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
@@ -87,7 +87,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(265, 13);
             this.label1.TabIndex = 4;
-            this.label1.Text = "To register a coutries team click Register Team button.";
+            this.label1.Text = "To register a country's team, click Register Team button.";
             // 
             // label2
             // 
@@ -96,7 +96,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(231, 13);
             this.label2.TabIndex = 5;
-            this.label2.Text = "To register athlete click Register Athlete button.";
+            this.label2.Text = "To register athlete, click Register Athlete button.";
             // 
             // label3
             // 
@@ -105,7 +105,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(296, 13);
             this.label3.TabIndex = 6;
-            this.label3.Text = "To look up an event\'s schedual click Event Schedual button.";
+            this.label3.Text = "To look up an event's schedule, click Event Schedule button.";
             // 
             // label4
             // 
@@ -114,7 +114,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(418, 13);
             this.label4.TabIndex = 7;
-            this.label4.Text = "To loop up the current rankings in a select event click Look up Event Rankings bu" +
+            this.label4.Text = "To look up the current rankings in a specific event, click Look up Event Rankings bu" +
     "tton.";
             // 
             // label5
@@ -124,7 +124,7 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(313, 13);
             this.label5.TabIndex = 8;
-            this.label5.Text = "To Register Athlete for an event press Register Athlete for Event.";
+            this.label5.Text = "To Register Athlete for an event, press Register Athlete for Event.";
             // 
             // button5
             // 

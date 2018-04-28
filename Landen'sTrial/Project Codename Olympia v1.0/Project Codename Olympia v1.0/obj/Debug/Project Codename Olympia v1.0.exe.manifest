@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Project Codename Olympia v1.0.exe" size="70152">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Project Codename Olympia v1.0.exe" size="69640">
       <assemblyIdentity name="Project Codename Olympia v1.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>hItlmRWvWYljyxxUIpOX5VqV4reitrYqMoA1yjAFhaU=</dsig:DigestValue>
+        <dsig:DigestValue>VAY/Jyi7mTCcZSrLjlwSL8eE4rGYeRGUl0ny1YmD0gs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
