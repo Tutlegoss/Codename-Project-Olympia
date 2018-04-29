@@ -1,0 +1,96 @@
+\hypertarget{classRegistration}{}\section{Registration Class Reference}
+\label{classRegistration}\index{Registration@{Registration}}
+
+
+\hyperlink{classRegistration}{Registration} class registers Teams and Athletes.  
+
+
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{classRegistration_a42b6fa0a52ec6f1a632c7dbae2e4995a}{Registration} ()
+\item 
+void \hyperlink{classRegistration_aa0b6171c6cfb18e6c67f003d776914de}{register\+Athlete} (string Fname, string Lname, string Gender, string team)
+\item 
+void \hyperlink{classRegistration_ab8effd4c7b67d1e767530a2534d8b354}{delete\+Athlete} (string Fname, string Lname)
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+\hyperlink{classRegistration}{Registration} class registers Teams and Athletes. 
+
+D\+E\+F\+I\+N\+T\+I\+ON\+: The process of obtaining athletes who have successfully completed all qualification rounds prior to the Winter Olympics. \hyperlink{classRegistration}{Registration} places athletes into their respective team and places athletes to a specified event.
+
+C\+O\+N\+S\+T\+R\+A\+I\+N\+TS\+: Sets a maximum limit of athletes per event. Sets a max limit on number of teams in the Winter Olympics.\begin{DoxyAuthor}{Author}
+Landen Marchand 
+\end{DoxyAuthor}
+
+
+Definition at line 212 of file Class1.\+cs.
+
+
+
+\subsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{classRegistration_a42b6fa0a52ec6f1a632c7dbae2e4995a}\label{classRegistration_a42b6fa0a52ec6f1a632c7dbae2e4995a}} 
+\index{Registration@{Registration}!Registration@{Registration}}
+\index{Registration@{Registration}!Registration@{Registration}}
+\subsubsection{\texorpdfstring{Registration()}{Registration()}}
+{\footnotesize\ttfamily Registration.\+Registration (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+Default Constructor Provided Automatically 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Default Values 
+\end{DoxyReturn}
+
+
+Definition at line 218 of file Class1.\+cs.
+
+
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{classRegistration_ab8effd4c7b67d1e767530a2534d8b354}\label{classRegistration_ab8effd4c7b67d1e767530a2534d8b354}} 
+\index{Registration@{Registration}!delete\+Athlete@{delete\+Athlete}}
+\index{delete\+Athlete@{delete\+Athlete}!Registration@{Registration}}
+\subsubsection{\texorpdfstring{delete\+Athlete()}{deleteAthlete()}}
+{\footnotesize\ttfamily void Registration.\+delete\+Athlete (\begin{DoxyParamCaption}\item[{string}]{Fname,  }\item[{string}]{Lname }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+$<$ Creates variable for connection string
+
+$<$ Opens DB Checks connection and fills grid view with Race table
+
+$<$ Adds entry to athlete information 
+
+Definition at line 255 of file Class1.\+cs.
+
+\mbox{\Hypertarget{classRegistration_aa0b6171c6cfb18e6c67f003d776914de}\label{classRegistration_aa0b6171c6cfb18e6c67f003d776914de}} 
+\index{Registration@{Registration}!register\+Athlete@{register\+Athlete}}
+\index{register\+Athlete@{register\+Athlete}!Registration@{Registration}}
+\subsubsection{\texorpdfstring{register\+Athlete()}{registerAthlete()}}
+{\footnotesize\ttfamily void Registration.\+register\+Athlete (\begin{DoxyParamCaption}\item[{string}]{Fname,  }\item[{string}]{Lname,  }\item[{string}]{Gender,  }\item[{string}]{team }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+Void function adds male to database for the event 
+\begin{DoxyParams}{Parameters}
+{\em string} & for athlete\textquotesingle{}s team name \\
+\hline
+{\em string} & for first name of athlete \\
+\hline
+{\em string} & for last name of athlete \\
+\hline
+\end{DoxyParams}
+$<$ Creates variable for connection string
+
+$<$ Opens DB Checks connection and fills grid view with Race table
+
+$<$ Adds entry to athlete information 
+
+Definition at line 227 of file Class1.\+cs.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+\hyperlink{Class1_8cs}{Class1.\+cs}\end{DoxyCompactItemize}

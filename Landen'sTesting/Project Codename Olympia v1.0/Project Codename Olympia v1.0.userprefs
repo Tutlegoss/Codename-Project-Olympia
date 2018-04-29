@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{86C96BB6-B395-41DE-A267-3614EDF9C7BA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project Codename Olympia v1.0/Team.cs">
+    <Files>
+      <File FileName="Project Codename Olympia v1.0/Class1.cs" Line="916" Column="1" />
+      <File FileName="Project Codename Olympia v1.0/Display.cs" Line="28" Column="65" />
+      <File FileName="Project Codename Olympia v1.0/Form1.cs" Line="1" Column="1" />
+      <File FileName="Project Codename Olympia v1.0/Judge.cs" Line="1" Column="1" />
+      <File FileName="Project Codename Olympia v1.0/Program.cs" Line="1" Column="1" />
+      <File FileName="Project Codename Olympia v1.0/Registration.cs" Line="17" Column="6" />
+      <File FileName="Project Codename Olympia v1.0/Team.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
