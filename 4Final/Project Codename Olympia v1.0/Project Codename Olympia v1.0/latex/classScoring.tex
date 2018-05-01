@@ -1,0 +1,135 @@
+\hypertarget{classScoring}{}\section{Scoring Class Reference}
+\label{classScoring}\index{Scoring@{Scoring}}
+
+
+\hyperlink{classScoring}{Scoring} class manages the official scores/times recorded by the judges.  
+
+
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{classScoring_af50c5086e741aef0bb7b8c91e2d3f2f2}{Scoring} ()
+\item 
+void \hyperlink{classScoring_af08d1140b49215abf2a56a34d74249f6}{Enter\+Time} (string entry, string selected\+Event, string Fname, string Lname)
+\item 
+void \hyperlink{classScoring_a0943ddd7d6181c24c03c98c257cd6354}{Enter\+Score} (double entry, string selected\+Event, string Fname, string Lname)
+\end{DoxyCompactItemize}
+\subsection*{Properties}
+\begin{DoxyCompactItemize}
+\item 
+double \hyperlink{classScoring_a98cbf9ebbee504f67d1ebcbb45f3bf40}{score}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+\hyperlink{classScoring}{Scoring} class manages the official scores/times recorded by the judges. 
+
+D\+E\+F\+I\+N\+T\+I\+ON\+: The act of taking the judges scores that are given to the athlete or pair of athletes at their respective event.
+
+C\+O\+N\+S\+T\+R\+A\+I\+N\+TS\+: N\+O\+NE\begin{DoxyAuthor}{Author}
+Landen Marchand 
+\end{DoxyAuthor}
+
+
+Definition at line 690 of file Class1.\+cs.
+
+
+
+\subsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{classScoring_af50c5086e741aef0bb7b8c91e2d3f2f2}\label{classScoring_af50c5086e741aef0bb7b8c91e2d3f2f2}} 
+\index{Scoring@{Scoring}!Scoring@{Scoring}}
+\index{Scoring@{Scoring}!Scoring@{Scoring}}
+\subsubsection{\texorpdfstring{Scoring()}{Scoring()}}
+{\footnotesize\ttfamily Scoring.\+Scoring (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+Default Constructor Provided Automatically 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Default Values 
+\end{DoxyReturn}
+
+
+Definition at line 696 of file Class1.\+cs.
+
+
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{classScoring_a0943ddd7d6181c24c03c98c257cd6354}\label{classScoring_a0943ddd7d6181c24c03c98c257cd6354}} 
+\index{Scoring@{Scoring}!Enter\+Score@{Enter\+Score}}
+\index{Enter\+Score@{Enter\+Score}!Scoring@{Scoring}}
+\subsubsection{\texorpdfstring{Enter\+Score()}{EnterScore()}}
+{\footnotesize\ttfamily void Scoring.\+Enter\+Score (\begin{DoxyParamCaption}\item[{double}]{entry,  }\item[{string}]{selected\+Event,  }\item[{string}]{Fname,  }\item[{string}]{Lname }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+Void function adds female to database for the event 
+\begin{DoxyParams}{Parameters}
+{\em string} & for score entry \\
+\hline
+{\em string} & for particular event score derived from \\
+\hline
+{\em string} & for first name of athlete \\
+\hline
+{\em string} & for last name of athlete \\
+\hline
+\end{DoxyParams}
+$<$ Creates variable for connection string
+
+$<$ Opens DB Checks connection and fills grid view with Race table
+
+$<$ Adds entry from event to the specific event 
+
+Definition at line 742 of file Class1.\+cs.
+
+\mbox{\Hypertarget{classScoring_af08d1140b49215abf2a56a34d74249f6}\label{classScoring_af08d1140b49215abf2a56a34d74249f6}} 
+\index{Scoring@{Scoring}!Enter\+Time@{Enter\+Time}}
+\index{Enter\+Time@{Enter\+Time}!Scoring@{Scoring}}
+\subsubsection{\texorpdfstring{Enter\+Time()}{EnterTime()}}
+{\footnotesize\ttfamily void Scoring.\+Enter\+Time (\begin{DoxyParamCaption}\item[{string}]{entry,  }\item[{string}]{selected\+Event,  }\item[{string}]{Fname,  }\item[{string}]{Lname }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+Void function enters the time per athlete at hand 
+\begin{DoxyParams}{Parameters}
+{\em string} & for time entry \\
+\hline
+{\em string} & for particular event time derived from \\
+\hline
+{\em string} & for first name of athlete \\
+\hline
+{\em string} & for last name of athlete \\
+\hline
+\end{DoxyParams}
+$<$ Creates variable for connection string
+
+$<$ Opens DB Checks connection and fills grid view with Race table
+
+$<$ Adds entry from event to the specific event 
+
+Definition at line 710 of file Class1.\+cs.
+
+
+
+\subsection{Property Documentation}
+\mbox{\Hypertarget{classScoring_a98cbf9ebbee504f67d1ebcbb45f3bf40}\label{classScoring_a98cbf9ebbee504f67d1ebcbb45f3bf40}} 
+\index{Scoring@{Scoring}!score@{score}}
+\index{score@{score}!Scoring@{Scoring}}
+\subsubsection{\texorpdfstring{score}{score}}
+{\footnotesize\ttfamily double Scoring.\+score\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+Sets and gets judge\textquotesingle{}s score 
+\begin{DoxyParams}{Parameters}
+{\em double} & for judge\textquotesingle{}s score \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+double of judge\textquotesingle{}s score 
+\end{DoxyReturn}
+
+
+Definition at line 703 of file Class1.\+cs.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+\hyperlink{Class1_8cs}{Class1.\+cs}\end{DoxyCompactItemize}

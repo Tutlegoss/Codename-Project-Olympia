@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{86C96BB6-B395-41DE-A267-3614EDF9C7BA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Class.cs">
+    <Files>
+      <File FileName="Project Codename Olympia v1.0/Class1.cs" Line="1" Column="1" />
+      <File FileName="Project Codename Olympia v1.0/Display.cs" Line="28" Column="65" />
+      <File FileName="Project Codename Olympia v1.0/Form1.cs" Line="1" Column="1" />
+      <File FileName="Project Codename Olympia v1.0/Judge.cs" Line="1" Column="1" />
+      <File FileName="Project Codename Olympia v1.0/Program.cs" Line="1" Column="1" />
+      <File FileName="Project Codename Olympia v1.0/Registration.cs" Line="19" Column="10" />
+      <File FileName="Project Codename Olympia v1.0/Team.cs" Line="1" Column="1" />
+      <File FileName="../3/Assignment/Registraction.cs" Line="1" Column="4" />
+      <File FileName="Project Codename Olympia v1.0/Display.resx" Line="1" Column="1" />
+      <File FileName="Project Codename Olympia v1.0/Display.Designer.cs" Line="1" Column="1" />
+      <File FileName="Project Codename Olympia v1.0/Event.Designer.cs" Line="1" Column="1" />
+      <File FileName="Project Codename Olympia v1.0/Form1.Designer.cs" Line="1" Column="1" />
+      <File FileName="Project Codename Olympia v1.0/Judge.Designer.cs" Line="1" Column="1" />
+      <File FileName="Project Codename Olympia v1.0/Registration.Designer.cs" Line="1" Column="1" />
+      <File FileName="../Class.cs" Line="1056" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Project_220Codename_220Olympia_220v1.0 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

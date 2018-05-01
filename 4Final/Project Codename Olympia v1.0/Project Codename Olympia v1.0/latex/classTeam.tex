@@ -1,0 +1,122 @@
+\hypertarget{classTeam}{}\section{Team Class Reference}
+\label{classTeam}\index{Team@{Team}}
+
+
+\hyperlink{classTeam}{Team} class to house the team name.  
+
+
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{classTeam_ad93bf55f26a13507f328d96ae6d25918}{Team} ()
+\item 
+void \hyperlink{classTeam_a057fd5f0d29ee5d92f47b312e0fc6dbf}{Add\+Team} (string Team\+Name)
+\item 
+void \hyperlink{classTeam_a6b2ab2e650439bf7b915b3423cf5787f}{Delete\+Team} (string Team\+Name)
+\end{DoxyCompactItemize}
+\subsection*{Properties}
+\begin{DoxyCompactItemize}
+\item 
+string \hyperlink{classTeam_abe0a9396e60ebf155cf10c0700214753}{country\+Name}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+\hyperlink{classTeam}{Team} class to house the team name. 
+
+D\+E\+F\+I\+N\+I\+T\+I\+ON\+: Represents each country in the Winter Olympics.
+
+C\+O\+N\+S\+T\+R\+A\+I\+N\+TS\+: There must be the same amount of males as females in a team. There is to only be one country per team.\begin{DoxyAuthor}{Author}
+Landen Marchand 
+\end{DoxyAuthor}
+
+
+Definition at line 983 of file Class1.\+cs.
+
+
+
+\subsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{classTeam_ad93bf55f26a13507f328d96ae6d25918}\label{classTeam_ad93bf55f26a13507f328d96ae6d25918}} 
+\index{Team@{Team}!Team@{Team}}
+\index{Team@{Team}!Team@{Team}}
+\subsubsection{\texorpdfstring{Team()}{Team()}}
+{\footnotesize\ttfamily Team.\+Team (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+Default Constructor Provided Automatically 
+\begin{DoxyParams}{Parameters}
+{\em None} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+Default Values 
+\end{DoxyReturn}
+
+
+Definition at line 989 of file Class1.\+cs.
+
+
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{classTeam_a057fd5f0d29ee5d92f47b312e0fc6dbf}\label{classTeam_a057fd5f0d29ee5d92f47b312e0fc6dbf}} 
+\index{Team@{Team}!Add\+Team@{Add\+Team}}
+\index{Add\+Team@{Add\+Team}!Team@{Team}}
+\subsubsection{\texorpdfstring{Add\+Team()}{AddTeam()}}
+{\footnotesize\ttfamily void Team.\+Add\+Team (\begin{DoxyParamCaption}\item[{string}]{Team\+Name }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+Function to add a team to be officially registered 
+\begin{DoxyParams}{Parameters}
+{\em string} & for the \hyperlink{classTeam}{Team}\textquotesingle{}s name (which is country name) \\
+\hline
+\end{DoxyParams}
+$<$ Impeded sql statement to insert value into database
+
+$<$ Opens DB
+
+$<$ If connection, open was successful
+
+$<$ This sends sql commands to database 
+
+Definition at line 1000 of file Class1.\+cs.
+
+\mbox{\Hypertarget{classTeam_a6b2ab2e650439bf7b915b3423cf5787f}\label{classTeam_a6b2ab2e650439bf7b915b3423cf5787f}} 
+\index{Team@{Team}!Delete\+Team@{Delete\+Team}}
+\index{Delete\+Team@{Delete\+Team}!Team@{Team}}
+\subsubsection{\texorpdfstring{Delete\+Team()}{DeleteTeam()}}
+{\footnotesize\ttfamily void Team.\+Delete\+Team (\begin{DoxyParamCaption}\item[{string}]{Team\+Name }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+$<$ Impeded sql statement to delete value from database
+
+$<$ Opens DB
+
+$<$ If connection, open was successful
+
+$<$ This sends sql commands to database 
+
+Definition at line 1027 of file Class1.\+cs.
+
+
+
+\subsection{Property Documentation}
+\mbox{\Hypertarget{classTeam_abe0a9396e60ebf155cf10c0700214753}\label{classTeam_abe0a9396e60ebf155cf10c0700214753}} 
+\index{Team@{Team}!country\+Name@{country\+Name}}
+\index{country\+Name@{country\+Name}!Team@{Team}}
+\subsubsection{\texorpdfstring{country\+Name}{countryName}}
+{\footnotesize\ttfamily string Team.\+country\+Name\hspace{0.3cm}{\ttfamily [get]}, {\ttfamily [set]}}
+
+Sets and gets team\textquotesingle{}s name, which is their country\textquotesingle{}s name 
+\begin{DoxyParams}{Parameters}
+{\em string} & for team name \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+string of team name 
+\end{DoxyReturn}
+
+
+Definition at line 996 of file Class1.\+cs.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+\hyperlink{Class1_8cs}{Class1.\+cs}\end{DoxyCompactItemize}
